@@ -1,0 +1,8 @@
+.movieCard-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border: 1px solid black;
+  align-items: center;
+  justify-items: center;
+}
